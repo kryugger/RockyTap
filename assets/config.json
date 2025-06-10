@@ -1,0 +1,19 @@
+{
+    "webimgurl":"https://borisov.eu/images",
+    "apiUrl": "https://borisov.eu/api",
+    "apiLoginUrl": "https://borisov.eu/api/login/",
+    "gaId": "G-LNG0XGL9ZV",
+    "botName": "rocky_tap_bot",
+    "baseUrl": "/",
+    "mode": "production",
+    "isDev": false,
+    "isProd": true,
+    "isSSR": false,
+    "host": "localhost",
+    "database": "",
+    "database_user": "",
+    "database_password":"",
+	"GA4": "G-LNG0XGL9ZV",
+	"telegram_bot": "rocky_tap_bot",
+  }
+  
